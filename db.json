@@ -1,7 +1,7 @@
- { 	  
+ [	  
 	  "Network":"admob",	
 	  "Banner":"ca-app-pub-xxxxxxxxxxxxxxxxxxxxxx",	
 	  "Interstitial":"ca-app-pub-YYYYYYYYYYYYYYYYY",	  
 	  "NativeBanner":"TEST8TEST8TEST_TEST_TEST",	
 	  "Native":"IMG_16_9_APP_INSTALL#173186393601951_288058788781377"
-}
+]
